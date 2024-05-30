@@ -14,3 +14,8 @@
 - [Overview](#overview)
 - [Integrated-development-environment](#integrated-development-environment)
 - [Configuration](#configuration)
+- [Credentials](#credentials)
+
+<p align="center">
+  <img src="TensorFlow Data Deployment Specialization SWV82MXGTYJ8.jpg" alt="TensorFlow Logo" width="825">
+</p>
